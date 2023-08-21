@@ -1,0 +1,6 @@
+sklearn==0.0
+imgaug==0.4.0
+opencv-python==4.1.2.30
+scikit-image==0.16.2
+tqdm
+PyMaxflow
